@@ -34,9 +34,9 @@ Geo location and other features
 
 ### Cases Data
 
-Europe
+#### Europe
 - https://www.kaggle.com/datasets/tavoglc/covid19-cases
-America
+#### America
 - https://www.kaggle.com/datasets/tavoglc/covid19-in-the-american-continent
 
 ## Figures
