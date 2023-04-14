@@ -40,8 +40,8 @@ Geo location and other features
 - https://www.kaggle.com/datasets/tavoglc/covid19-in-the-american-continent
 
 ## Figures
-- Figure 1 and 4
-https://www.kaggle.com/code/tavoglc/sars-cov2-seasonality-and-adaptation
+### Figure 1 and 4
+- https://www.kaggle.com/code/tavoglc/sars-cov2-seasonality-and-adaptation
 
-- Figure 2
-https://www.kaggle.com/code/tavoglc/sars-cov2-seasonality-and-adaptation-02
+### Figure 2
+- https://www.kaggle.com/code/tavoglc/sars-cov2-seasonality-and-adaptation-02
