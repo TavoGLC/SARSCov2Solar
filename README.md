@@ -45,3 +45,6 @@ Geo location and other features
 
 ### Figure 2
 - https://www.kaggle.com/code/tavoglc/sars-cov2-seasonality-and-adaptation-02
+
+### Figure 3
+- https://www.kaggle.com/code/tavoglc/sars-cov2-seasonality-and-adaptation-03
