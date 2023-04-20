@@ -48,3 +48,17 @@ Geo location and other features
 
 ### Figure 3
 - https://www.kaggle.com/code/tavoglc/sars-cov2-seasonality-and-adaptation-03
+
+## Want to know more ? 
+### Sliding sampling 
+#### Paper
+- https://www.researchsquare.com/article/rs-1691291/v1
+#### Repo 
+- https://github.com/TavoGLC/SlidingSampling
+
+### Old medium posts 
+- https://medium.com/@tavoglc/list/machine-learning-and-covid19-0659a2c0bb92
+### Substack 
+- https://tavoglc.substack.com/
+
+
