@@ -1,0 +1,521 @@
+Homo sapiens AT-hook containing transcription factor 1 (AHCTF1), transcript 
+Homo sapiens RAD51 associated protein 1 (RAD51AP1), transcript 
+Homo sapiens cation channel sperm associated auxiliary subunit beta (CATSPERB), mRNA
+Homo sapiens sorcin (SRI), transcript 
+Homo sapiens transcription factor EC (TFEC), transcript 
+Homo sapiens glucuronic acid epimerase (GLCE), transcript 
+Homo sapiens mitotic arrest deficient 2 like 1 (MAD2L1), mRNA
+Homo sapiens NGFI-A binding protein 1 (NAB1), transcript 
+Homo sapiens clathrin heavy chain linker domain containing 1 (CLHC1), transcript 
+Homo sapiens G protein-coupled receptor 174 (GPR174), mRNA
+Homo sapiens semaphorin 3A (SEMA3A), mRNA
+Homo sapiens phosphodiesterase 4D (PDE4D), transcript 
+Homo sapiens calcium/calmodulin dependent protein kinase IV (CAMK4), transcript 
+Homo sapiens cyclin E2 (CCNE2), mRNA
+Homo sapiens synaptotagmin 16 (SYT16), transcript 
+Homo sapiens MON2 homolog, regulator of endosome-to-Golgi trafficking (MON2), transcript 
+Homo sapiens ubiquitin specific peptidase 53 (USP53), transcript 
+Homo sapiens ATPase secretory pathway Ca2+ transporting 1 (ATP2C1), transcript 
+Homo sapiens follistatin like 5 (FSTL5), transcript 
+Homo sapiens magnesium transporter 1 (MAGT1), transcript 
+Homo sapiens polyhomeotic homolog 3 (PHC3), transcript 
+Homo sapiens transmembrane protein 263 (TMEM263), transcript 
+Homo sapiens terminal nucleotidyltransferase 5D (TENT5D), transcript 
+Homo sapiens plastin 1 (PLS1), transcript 
+Homo sapiens adhesion G protein-coupled receptor G7 (ADGRG7), transcript 
+Homo sapiens TBC1 domain family member 15 (TBC1D15), transcript 
+Homo sapiens protein phosphatase 1 regulatory subunit 12A (PPP1R12A), transcript 
+Homo sapiens syntaxin binding protein 6 (STXBP6), transcript 
+Homo sapiens PPARG coactivator 1 alpha (PPARGC1A), transcript 
+Homo sapiens C9orf72-SMCR8 complex subunit (C9orf72), transcript 
+Homo sapiens centriole, cilia and spindle associated protein (CCSAP), transcript 
+Homo sapiens tRNA nucleotidyl transferase 1 (TRNT1), transcript 
+Homo sapiens ring finger protein, LIM domain interacting (RLIM), transcript 
+Homo sapiens transcription activation suppressor (TASOR), transcript 
+Homo sapiens zinc finger DHHC-type palmitoyltransferase 17 (ZDHHC17), transcript 
+Homo sapiens FER tyrosine kinase (FER), transcript 
+Homo sapiens long intergenic non-protein coding RNA 2331 (LINC02331), transcript 
+Homo sapiens tousled like kinase 1 (TLK1), transcript 
+Homo sapiens Dmx like 1 (DMXL1), transcript 
+Homo sapiens neurobeachin like 1 (NBEAL1), transcript 
+Homo sapiens tudor domain containing 6 (TDRD6), transcript 
+Homo sapiens amyloid beta precursor protein binding family B member 2 (APBB2), transcript 
+Homo sapiens atos homolog A (ATOSA), transcript 
+Homo sapiens tripartite motif containing 23 (TRIM23), transcript 
+Homo sapiens solute carrier family 26 member 7 (SLC26A7), transcript 
+Homo sapiens BRO1 domain and CAAX motif containing (BROX), transcript 
+Homo sapiens chromosome 2 open reading frame 88 (C2orf88), transcript 
+Homo sapiens lumican (LUM), mRNA
+Homo sapiens integrin subunit alpha V (ITGAV), transcript 
+Homo sapiens muscleblind like splicing regulator 2 (MBNL2), transcript 
+Homo sapiens DNA replication helicase/nuclease 2 (DNA2), transcript 
+Homo sapiens B and T lymphocyte associated (BTLA), transcript 
+Homo sapiens mitogen-activated protein kinase kinase kinase 2 (MAP3K2), transcript 
+Homo sapiens MKKS centrosomal shuttling protein (MKKS), transcript 
+Homo sapiens tumor suppressor candidate 3 (TUSC3), transcript 
+Homo sapiens kelch repeat and BTB domain containing 3 (KBTBD3), transcript 
+Homo sapiens protection of telomeres 1 (POT1), transcript 
+Homo sapiens microtubule associated tyrosine carboxypeptidase 2 (MATCAP2), transcript 
+Homo sapiens semaphorin 3D (SEMA3D), transcript 
+Homo sapiens erbb2 interacting protein (ERBIN), transcript 
+Homo sapiens ecotropic viral integration site 5 (EVI5), transcript 
+Homo sapiens JNK1/MAPK8 associated membrane protein (JKAMP), transcript 
+Homo sapiens AKT interacting protein (AKTIP), transcript 
+Homo sapiens G2/M-phase specific E3 ubiquitin protein ligase (G2E3), transcript 
+Homo sapiens ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 3 (ST6GALNAC3), transcript 
+Homo sapiens Prader Willi/Angelman region RNA 6 (PWAR6), long non-coding RNA
+Homo sapiens UDP glycosyltransferase 8 (UGT8), transcript 
+Homo sapiens RAR related orphan receptor A (RORA), transcript 
+Homo sapiens dipeptidyl peptidase 8 (DPP8), transcript 
+Homo sapiens SCY1 like pseudokinase 2 (SCYL2), transcript 
+Homo sapiens arylacetamide deacetylase pseudogene 1 (AADACP1), non-coding RNA
+Homo sapiens zinc finger E-box binding homeobox 1 (ZEB1), transcript 
+Homo sapiens general transcription factor IIH subunit 2 (GTF2H2), transcript 
+Homo sapiens SWI/SNF-related, matrix-associated actin-dependent regulator of chromatin, subfamily a, containing DEAD/H box 1 (SMARCAD1), transcript 
+Homo sapiens capping actin protein of muscle Z-line subunit alpha 1 (CAPZA1), mRNA
+Homo sapiens guanine deaminase (GDA), transcript 
+Homo sapiens mitogen-activated protein kinase 8 (MAPK8), transcript 
+Homo sapiens Myb like, SWIRM and MPN domains 1 (MYSM1), mRNA
+Homo sapiens epidermal growth factor receptor pathway substrate 15 (EPS15), transcript 
+Homo sapiens olfactory receptor family 2 subfamily L member 2 (OR2L2), transcript 
+Homo sapiens WD repeat and HMG-box DNA binding protein 1 (WDHD1), transcript 
+Homo sapiens solute carrier family 2 member 2 (SLC2A2), transcript 
+Homo sapiens myocardin related transcription factor B (MRTFB), transcript 
+Homo sapiens KIAA0825 (KIAA0825), transcript 
+Homo sapiens LIM domain only 3 (LMO3), transcript 
+Homo sapiens olfactory receptor family 6 subfamily C member 74 (OR6C74), mRNA
+Homo sapiens phosphatidylinositol 3-kinase catalytic subunit type 3 (PIK3C3), transcript 
+Homo sapiens E74 like ETS transcription factor 2 (ELF2), transcript 
+Homo sapiens divergent protein kinase domain 1A (DIPK1A), transcript 
+Homo sapiens nucleosome assembly protein 1 like 1 (NAP1L1), transcript 
+Homo sapiens MET transcriptional regulator MACC1 (MACC1), mRNA
+Homo sapiens formin binding protein 1 like (FNBP1L), transcript 
+Homo sapiens membrane associated ring-CH-type finger 7 (MARCHF7), transcript 
+Homo sapiens A-kinase anchoring protein 11 (AKAP11), mRNA
+Homo sapiens IgA inducing protein (IGIP), mRNA
+Homo sapiens histone deacetylase 2 (HDAC2), transcript 
+Homo sapiens interleukin 6 cytokine family signal transducer (IL6ST), transcript 
+Homo sapiens pantothenate kinase 3 (PANK3), mRNA
+Homo sapiens WD repeat domain 89 (WDR89), transcript 
+Homo sapiens solute carrier organic anion transporter family member 4C1 (SLCO4C1), mRNA
+Homo sapiens RAP1A, member of RAS oncogene family (RAP1A), transcript 
+Homo sapiens solute carrier family 15 member 5 (SLC15A5), mRNA
+Homo sapiens taxilin gamma pseudogene, Y-linked (TXLNGY), transcript 
+Homo sapiens olfactory receptor family 4 subfamily F member 3 (OR4F3), mRNA
+Homo sapiens lin-7 homolog A, crumbs cell polarity complex component (LIN7A), transcript 
+Homo sapiens Rho GTPase activating protein 29 (ARHGAP29), transcript 
+Homo sapiens ubiquitin specific peptidase 45 (USP45), transcript 
+Homo sapiens protocadherin 9 (PCDH9), transcript 
+Homo sapiens RAP1B, member of RAS oncogene family (RAP1B), transcript 
+Homo sapiens homeodomain interacting protein kinase 3 (HIPK3), transcript 
+Homo sapiens regulatory factor X7 (RFX7), transcript 
+Homo sapiens SLIT and NTRK like family member 4 (SLITRK4), transcript 
+Homo sapiens relaxin family peptide receptor 1 (RXFP1), transcript 
+Homo sapiens long intergenic non-protein coding RNA 560 (LINC00560), long non-coding RNA
+Homo sapiens FLG antisense RNA 1 (FLG-AS1), transcript 
+Homo sapiens family with sequence similarity 13 member B (FAM13B), transcript 
+Homo sapiens matrix metallopeptidase 16 (MMP16), mRNA
+Homo sapiens potassium channel tetramerization domain containing 16 (KCTD16), mRNA
+Homo sapiens protein tyrosine phosphatase non-receptor type 4 (PTPN4), mRNA
+Homo sapiens branched chain amino acid transaminase 1 (BCAT1), transcript 
+Homo sapiens sestrin 3 (SESN3), transcript 
+Homo sapiens RAD9 checkpoint clamp component B (RAD9B), transcript 
+Homo sapiens SMC5-SMC6 complex localization factor 1 (SLF1), mRNA
+Homo sapiens septin 7 (SEPTIN7), transcript 
+Homo sapiens ring finger and CHY zinc finger domain containing 1 (RCHY1), transcript 
+Homo sapiens testis expressed 41 (TEX41), long non-coding RNA
+Homo sapiens eukaryotic translation initiation factor 3 subunit E (EIF3E), mRNA
+Homo sapiens uncharacterized LOC101928437 (LOC101928437), long non-coding RNA
+Homo sapiens ankyrin repeat domain 28 (ANKRD28), transcript 
+Homo sapiens calcium voltage-gated channel auxiliary subunit beta 4 (CACNB4), transcript 
+Homo sapiens cyclin dependent kinase like 2 (CDKL2), transcript 
+Homo sapiens purinergic receptor P2Y14 (P2RY14), transcript 
+Homo sapiens LLP homolog, long-term synaptic facilitation factor (LLPH), mRNA
+Homo sapiens LIF receptor subunit alpha (LIFR), transcript 
+Homo sapiens pleckstrin homology domain containing A1 (PLEKHA1), transcript 
+Homo sapiens oxidation resistance 1 (OXR1), transcript 
+Homo sapiens CD69 molecule (CD69), mRNA
+Homo sapiens C-type lectin domain family 2 member D pseudogene (LOC374443), transcript 
+Homo sapiens membrane bound O-acyltransferase domain containing 2 (MBOAT2), transcript 
+Homo sapiens meiotic double-stranded break formation protein 4 (MEI4), transcript 
+Homo sapiens anoctamin 3 (ANO3), transcript 
+Homo sapiens adaptor related protein complex 5 subunit mu 1 (AP5M1), transcript 
+Homo sapiens EPH receptor A5 (EPHA5), transcript 
+Homo sapiens DEP domain containing 1 (DEPDC1), transcript 
+Homo sapiens host cell factor C2 (HCFC2), mRNA
+Homo sapiens DEAD-box helicase 3 X-linked (DDX3X), transcript 
+Homo sapiens N-acylsphingosine amidohydrolase 1 (ASAH1), transcript 
+Homo sapiens guanylate cyclase 1 soluble subunit alpha 1 (GUCY1A1), transcript 
+Homo sapiens sterile alpha motif domain containing 8 (SAMD8), transcript 
+Homo sapiens nuclear transcription factor Y subunit beta (NFYB), transcript 
+Homo sapiens sodium voltage-gated channel alpha subunit 2 (SCN2A), transcript 
+Homo sapiens phosphodiesterase 4D interacting protein (PDE4DIP), transcript 
+Homo sapiens protein kinase D3 (PRKD3), mRNA
+Homo sapiens YTH N6-methyladenosine RNA binding protein F3 (YTHDF3), transcript 
+Homo sapiens solute carrier family 8 member A1 (SLC8A1), transcript 
+Homo sapiens RAS p21 protein activator 1 (RASA1), transcript 
+Homo sapiens solute carrier family 39 member 10 (SLC39A10), transcript 
+Homo sapiens DNA polymerase kappa (POLK), transcript 
+Homo sapiens ATPase phospholipid transporting 8B5, pseudogene (ATP8B5P), transcript 
+Homo sapiens transient receptor potential cation channel subfamily M member 7 (TRPM7), transcript 
+Homo sapiens BRCA1 interacting helicase 1 (BRIP1), mRNA
+Homo sapiens potassium sodium-activated channel subfamily T member 2 (KCNT2), transcript 
+Homo sapiens olfactory receptor family 6 subfamily C member 4 (OR6C4), transcript 
+Homo sapiens vacuolar protein sorting 13 homolog C (VPS13C), transcript 
+Homo sapiens transforming growth factor beta receptor 1 (TGFBR1), transcript 
+Homo sapiens activating transcription factor 7 interacting protein (ATF7IP), transcript 
+Homo sapiens defective in cullin neddylation 1 domain containing 4 (DCUN1D4), transcript 
+Homo sapiens ETS transcription factor ELK3 (ELK3), transcript 
+Homo sapiens UDP glucuronosyltransferase family 2 member A3 (UGT2A3), transcript 
+Homo sapiens ubiquitin specific peptidase 37 (USP37), mRNA
+Homo sapiens centromere protein C (CENPC), transcript 
+Homo sapiens ubiquitin specific peptidase 44 (USP44), transcript 
+Homo sapiens transmembrane p24 trafficking protein 5 (TMED5), transcript 
+Homo sapiens chimerin 1 (CHN1), transcript 
+Homo sapiens zinc finger and BTB domain containing 10 (ZBTB10), transcript 
+Homo sapiens thymocyte selection associated (THEMIS), transcript 
+Homo sapiens sodium voltage-gated channel alpha subunit 3 (SCN3A), transcript 
+Homo sapiens ribosomal protein S6 kinase A6 (RPS6KA6), transcript 
+Homo sapiens HAUS augmin like complex subunit 6 (HAUS6), transcript 
+Homo sapiens thyrotropin releasing hormone receptor (TRHR), mRNA
+Homo sapiens olfactory receptor family 5 subfamily H member 1 (OR5H1), mRNA
+Homo sapiens NEDD4 E3 ubiquitin protein ligase (NEDD4), transcript 
+Homo sapiens long intergenic non-protein coding RNA 2389 (LINC02389), long non-coding RNA
+Homo sapiens solute carrier family 13 member 1 (SLC13A1), transcript 
+Homo sapiens zinc finger MYM-type containing 2 (ZMYM2), transcript 
+Homo sapiens minichromosome maintenance domain containing 2 (MCMDC2), transcript 
+Homo sapiens phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 alpha (PIK3C2A), transcript 
+Homo sapiens PHD finger protein 3 (PHF3), transcript 
+Homo sapiens patched domain containing 4 (PTCHD4), transcript 
+Homo sapiens uncharacterized LOC101928961 (LOC101928961), long non-coding RNA
+Homo sapiens inositol polyphosphate-4-phosphatase type II B (INPP4B), transcript 
+Homo sapiens KIT ligand (KITLG), transcript 
+Homo sapiens cornichon family AMPA receptor auxiliary protein 1 (CNIH1), mRNA
+Homo sapiens meiosis regulator for oocyte development (MIOS), transcript 
+Homo sapiens solute carrier organic anion transporter family member 1B1 (SLCO1B1), mRNA
+Homo sapiens Bet1 golgi vesicular membrane trafficking protein (BET1), transcript 
+Homo sapiens zinc finger and BTB domain containing 41 (ZBTB41), transcript 
+Homo sapiens solute carrier family 36 member 4 (SLC36A4), transcript 
+Homo sapiens bone morphogenetic protein receptor type 1B (BMPR1B), transcript 
+Homo sapiens desmocollin 2 (DSC2), transcript 
+Homo sapiens endomucin (EMCN), transcript 
+Homo sapiens transient receptor potential cation channel subfamily C member 4 (TRPC4), transcript 
+Homo sapiens Rieske Fe-S domain containing (RFESD), transcript 
+Homo sapiens Ras association domain family member 8 (RASSF8), transcript 
+Homo sapiens catenin alpha 3 (CTNNA3), transcript 
+Homo sapiens cysteine and serine rich nuclear protein 3 (CSRNP3), transcript 
+Homo sapiens lysosomal associated membrane protein 2 (LAMP2), transcript 
+Homo sapiens family with sequence similarity 169 member A (FAM169A), transcript 
+Homo sapiens matrin 3 (MATR3), transcript 
+Homo sapiens potassium channel tetramerization domain containing 16 (KCTD16), transcript 
+Homo sapiens TRIM59-IFT80 readthrough (NMD candidate) (TRIM59-IFT80), transcript 
+Homo sapiens trafficking protein particle complex subunit 13 (TRAPPC13), transcript 
+Homo sapiens FIGNL1 interacting regulator of recombination and mitosis (FIRRM), transcript 
+Homo sapiens estrogen related receptor gamma (ESRRG), transcript 
+Homo sapiens stromal antigen 2 (STAG2), transcript 
+Homo sapiens TBC1 domain family member 8B (TBC1D8B), transcript 
+Homo sapiens zinc finger protein 484 (ZNF484), transcript 
+Homo sapiens RIO kinase 2 (RIOK2), transcript 
+Homo sapiens fidgetin, microtubule severing factor (FIGN), transcript 
+Homo sapiens ATPase phospholipid transporting 11C (ATP11C), transcript 
+Homo sapiens diphosphoinositol pentakisphosphate kinase 2 (PPIP5K2), transcript 
+Homo sapiens RAB GTPase activating protein 1 like (RABGAP1L), transcript 
+Homo sapiens leucine rich repeat kinase 2 (LRRK2), mRNA
+Homo sapiens DENN domain containing 1B (DENND1B), transcript 
+Homo sapiens hepatocyte growth factor (HGF), transcript 
+Homo sapiens neuropeptide Y receptor Y2 (NPY2R), transcript 
+Homo sapiens ATP binding cassette subfamily G member 2 (Junior blood group) (ABCG2), transcript 
+Homo sapiens leptin receptor (LEPR), transcript 
+Homo sapiens microfibril associated protein 3 (MFAP3), transcript 
+Homo sapiens nudix hydrolase 12 (NUDT12), transcript 
+Homo sapiens stabilizer of axonemal microtubules 2 (SAXO2), transcript 
+Homo sapiens Bardet-Biedl syndrome 10 (BBS10), mRNA
+Homo sapiens RAN binding protein 6 (RANBP6), transcript 
+Homo sapiens opioid receptor mu 1 (OPRM1), transcript 
+Homo sapiens amylo-alpha-1, 6-glucosidase, 4-alpha-glucanotransferase (AGL), transcript 
+Homo sapiens OIP5 antisense RNA 1 (OIP5-AS1), transcript 
+Homo sapiens polypeptide N-acetylgalactosaminyltransferase 7 (GALNT7), transcript 
+Homo sapiens sodium/potassium transporting ATPase interacting 2 (NKAIN2), transcript 
+Homo sapiens SHOC2 leucine rich repeat scaffold protein (SHOC2), transcript 
+Homo sapiens germinal center associated signaling and motility like (GCSAML), transcript 
+Homo sapiens post-GPI attachment to proteins inositol deacylase 1 (PGAP1), transcript 
+Homo sapiens TAO kinase 1 (TAOK1), transcript 
+Homo sapiens long intergenic non-protein coding RNA 557 (LINC00557), long non-coding RNA
+Homo sapiens Rho GTPase activating protein 28 (ARHGAP28), transcript 
+Homo sapiens failed axon connections homolog, metaxin like GST domain containing (FAXC), transcript 
+Homo sapiens SOS Ras/Rac guanine nucleotide exchange factor 1 (SOS1), transcript 
+Homo sapiens killer cell lectin like receptor F1 (KLRF1), transcript 
+Homo sapiens sodium voltage-gated channel alpha subunit 7 (SCN7A), transcript 
+Homo sapiens taste 2 receptor member 30 (TAS2R30), mRNA
+Homo sapiens cathepsin C (CTSC), transcript 
+Homo sapiens nebulette (NEBL), transcript 
+Homo sapiens nuclear envelope integral membrane protein 2 (NEMP2), transcript 
+Homo sapiens protein prenyltransferase alpha subunit repeat containing 1 (PTAR1), transcript 
+Homo sapiens leucine rich repeat and Ig domain containing 2 (LINGO2), transcript 
+Homo sapiens lipase I (LIPI), transcript 
+Homo sapiens interleukin 33 (IL33), transcript 
+Homo sapiens aquaporin 4 (AQP4), transcript 
+Homo sapiens phosphodiesterase 3A (PDE3A), transcript 
+Homo sapiens VPS50 subunit of EARP/GARPII complex (VPS50), transcript 
+Homo sapiens Sp4 transcription factor (SP4), transcript 
+Homo sapiens olfactory receptor family 5 subfamily M member 1 (OR5M1), mRNA
+Homo sapiens GSK3B interacting protein (GSKIP), transcript 
+Homo sapiens hyccin PI4KA lipid kinase complex subunit 1 (HYCC1), transcript 
+Homo sapiens cadherin 7 (CDH7), transcript 
+Homo sapiens poly(A) polymerase gamma (PAPOLG), mRNA
+Homo sapiens CDGSH iron sulfur domain 2 (CISD2), mRNA
+Homo sapiens calcium responsive transcription factor (CARF), transcript 
+Homo sapiens muskelin 1 (MKLN1), transcript 
+Homo sapiens uncharacterized LOC145474 (LOC145474), long non-coding RNA
+Homo sapiens protein phosphatase 1 regulatory inhibitor subunit 1C (PPP1R1C), transcript 
+Homo sapiens olfactory receptor family 2 subfamily T member 12 (OR2T12), transcript 
+Homo sapiens KCNIP4 intronic transcript 1 (KCNIP4-IT1), long non-coding RNA
+Homo sapiens adhesion G protein-coupled receptor L3 (ADGRL3), transcript 
+Homo sapiens THAP domain containing 9 (THAP9), transcript 
+Homo sapiens ATPase copper transporting alpha (ATP7A), transcript 
+Homo sapiens kelch like family member 8 (KLHL8), transcript 
+Homo sapiens GRAM domain containing 1C (GRAMD1C), transcript 
+Homo sapiens shootin 1 (SHTN1), transcript 
+Homo sapiens fibronectin type III domain containing 3A (FNDC3A), transcript 
+Homo sapiens zinc finger CCCH-type containing 12C (ZC3H12C), transcript 
+Homo sapiens ATPase family AAA domain containing 1 (ATAD1), transcript 
+Homo sapiens exostosin like glycosyltransferase 2 (EXTL2), transcript 
+Homo sapiens histamine N-methyltransferase (HNMT), transcript 
+Homo sapiens long intergenic non-protein coding RNA 643 (LINC00643), long non-coding RNA
+Homo sapiens WD repeat domain 75 (WDR75), transcript 
+Homo sapiens ectonucleotide pyrophosphatase/phosphodiesterase 4 (ENPP4), mRNA
+Homo sapiens ATPase phospholipid transporting 8A1 (ATP8A1), transcript 
+Homo sapiens olfactory receptor family 14 subfamily I member 1 (OR14I1), mRNA
+Homo sapiens sodium voltage-gated channel alpha subunit 1 (SCN1A), transcript 
+Homo sapiens Sep (O-phosphoserine) tRNA:Sec (selenocysteine) tRNA synthase (SEPSECS), transcript 
+Homo sapiens bone morphogenetic protein 5 (BMP5), transcript 
+Homo sapiens tRNA methyltransferase 11 homolog (TRMT11), transcript 
+Homo sapiens solute carrier family 9 member C1 (SLC9C1), transcript 
+Homo sapiens grancalcin (GCA), transcript 
+Homo sapiens decapping mRNA 1B (DCP1B), transcript 
+Homo sapiens KRIT1 ankyrin repeat containing (KRIT1), transcript 
+Homo sapiens zinc finger protein 678 (ZNF678), transcript 
+Homo sapiens HECT domain E3 ubiquitin protein ligase 2 (HECTD2), transcript 
+Homo sapiens olfactory receptor family 5 subfamily D member 3 pseudogene (OR5D3P), mRNA
+Homo sapiens MIER family member 3 (MIER3), transcript 
+Homo sapiens SMAD family member 5 (SMAD5), transcript 
+Homo sapiens MIS12 kinetochore complex component (MIS12), transcript 
+Homo sapiens protein kinase cAMP-activated catalytic subunit beta (PRKACB), transcript 
+Homo sapiens LRP2 binding protein (LRP2BP), transcript 
+Homo sapiens TATA-box binding protein associated factor 9b (TAF9B), mRNA
+Homo sapiens MOB family member 4, phocein (MOB4), transcript 
+Homo sapiens importin 11 (IPO11), transcript 
+Homo sapiens RAD21 cohesin complex component like 1 (RAD21L1), transcript 
+Homo sapiens calcitonin receptor like receptor (CALCRL), transcript 
+Homo sapiens solute carrier family 44 member 5 (SLC44A5), transcript 
+Homo sapiens cell adhesion molecule L1 like (CHL1), transcript 
+Homo sapiens RecQ mediated genome instability 1 (RMI1), transcript 
+Homo sapiens poly(A) polymerase alpha (PAPOLA), transcript 
+Homo sapiens cyclin T2 (CCNT2), transcript 
+Homo sapiens muscleblind like splicing regulator 1 (MBNL1), transcript 
+Homo sapiens EPH receptor A7 (EPHA7), transcript 
+Homo sapiens BCL2 interacting protein 2 (BNIP2), transcript 
+Homo sapiens integrator complex subunit 6 (INTS6), transcript 
+Homo sapiens secernin 3 (SCRN3), transcript 
+Homo sapiens calcyphosine 2 (CAPS2), transcript 
+Homo sapiens protocadherin 11 Y-linked (PCDH11Y), transcript 
+Homo sapiens SSX family member 2 interacting protein (SSX2IP), transcript 
+Homo sapiens peptidase, mitochondrial processing subunit beta (PMPCB), mRNA; nuclear gene for mitochondrial product
+Homo sapiens kelch repeat and BTB domain containing 8 (KBTBD8), mRNA
+Homo sapiens ADP ribosylation factor like GTPase 5A (ARL5A), transcript 
+Homo sapiens cytoplasmic linker associated protein 2 (CLASP2), transcript 
+Homo sapiens FMR1 autosomal homolog 1 (FXR1), transcript 
+Homo sapiens pyruvate dehydrogenase kinase 1 (PDK1), transcript 
+Homo sapiens CGG triplet repeat binding protein 1 (CGGBP1), transcript 
+Homo sapiens sarcolemma associated protein (SLMAP), transcript 
+Homo sapiens RAB3C, member RAS oncogene family (RAB3C), transcript 
+Homo sapiens F-box and leucine rich repeat protein 4 (FBXL4), transcript 
+Homo sapiens adhesion G protein-coupled receptor L2 (ADGRL2), transcript 
+Homo sapiens zinc finger protein X-linked (ZFX), transcript 
+Homo sapiens olfactory receptor family 8 subfamily G member 1 (OR8G1), transcript 
+Homo sapiens desmoglein 1 (DSG1), mRNA
+Homo sapiens MNAT1 component of CDK activating kinase (MNAT1), transcript 
+Homo sapiens GJA9-MYCBP readthrough (GJA9-MYCBP), transcript 
+Homo sapiens eyes shut homolog (EYS), transcript 
+Homo sapiens ring finger protein 141 (RNF141), mRNA
+Homo sapiens CD36 molecule (CD36), transcript 
+Homo sapiens coiled-coil domain containing 144A (CCDC144A), transcript 
+Homo sapiens poly(ADP-ribose) polymerase family member 8 (PARP8), transcript 
+Homo sapiens potassium voltage-gated channel interacting protein 4 (KCNIP4), transcript 
+Homo sapiens iron responsive element binding protein 2 (IREB2), transcript 
+Homo sapiens sacsin molecular chaperone (SACS), transcript 
+Homo sapiens phosphoribosyl pyrophosphate amidotransferase (PPAT), transcript 
+Homo sapiens dicer 1, ribonuclease III (DICER1), transcript 
+Homo sapiens TBC1 domain family member 32 (TBC1D32), transcript 
+Homo sapiens fucosyltransferase 9 (FUT9), mRNA
+Homo sapiens long intergenic non-protein coding RNA 1929 (LINC01929), long non-coding RNA
+Homo sapiens gamma-aminobutyric acid type A receptor subunit alpha2 (GABRA2), transcript 
+Homo sapiens neural cell adhesion molecule 2 (NCAM2), transcript 
+Homo sapiens pleckstrin and Sec7 domain containing 3 (PSD3), transcript 
+Homo sapiens alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase A (MGAT4A), transcript 
+Homo sapiens ATP binding cassette subfamily A member 6 (ABCA6), mRNA
+Homo sapiens muscleblind like splicing regulator 3 (MBNL3), transcript 
+Homo sapiens zinc finger protein 518A (ZNF518A), transcript 
+Homo sapiens angiotensin II receptor type 2 (AGTR2), transcript 
+Homo sapiens tRNA aspartic acid methyltransferase 1 (TRDMT1), transcript 
+Homo sapiens abl interactor 1 (ABI1), transcript 
+Homo sapiens lunapark, ER junction formation factor (LNPK), transcript 
+Homo sapiens RPTOR independent companion of MTOR complex 2 (RICTOR), transcript 
+Homo sapiens src kinase associated phosphoprotein 2 (SKAP2), transcript 
+Homo sapiens exportin 4 (XPO4), transcript 
+Homo sapiens chromosome 18 open reading frame 54 (C18orf54), transcript 
+Homo sapiens potassium voltage-gated channel subfamily H member 5 (KCNH5), transcript 
+Homo sapiens SEC62 homolog, preprotein translocation factor (SEC62), mRNA
+Homo sapiens RNA polymerase I subunit F (POLR1F), mRNA
+Homo sapiens copine 3 (CPNE3), mRNA
+Homo sapiens PLAG1 zinc finger (PLAG1), transcript 
+Homo sapiens NudC domain containing 1 (NUDCD1), transcript 
+Homo sapiens zinc finger ZZ-type containing 3 (ZZZ3), transcript 
+Homo sapiens mediator complex subunit 13 (MED13), mRNA
+Homo sapiens solute carrier family 7 member 11 (SLC7A11), mRNA
+Homo sapiens prolyl endopeptidase like (PREPL), transcript 
+Homo sapiens zinc finger protein 148 (ZNF148), transcript 
+Homo sapiens sestrin 1 (SESN1), transcript 
+Homo sapiens methyltransferase 14, N6-adenosine-methyltransferase subunit (METTL14), mRNA
+Homo sapiens NOVA alternative splicing regulator 1 (NOVA1), transcript 
+Homo sapiens methyltransferase 4, N6-adenosine (METTL4), transcript 
+Homo sapiens eukaryotic translation initiation factor 2A (EIF2A), transcript 
+Homo sapiens insulin induced gene 2 (INSIG2), transcript 
+Homo sapiens solute carrier family 25 member 46 (SLC25A46), transcript 
+Homo sapiens ATP binding cassette subfamily A member 10 (ABCA10), transcript 
+Homo sapiens nuclear cap binding protein subunit 1 (NCBP1), transcript 
+Homo sapiens arylacetamide deacetylase like 2 (AADACL2), mRNA
+Homo sapiens ATPase plasma membrane Ca2+ transporting 1 (ATP2B1), transcript 
+Homo sapiens zinc finger protein Y-linked (ZFY), transcript 
+Homo sapiens ATM serine/threonine kinase (ATM), transcript 
+Homo sapiens WASH complex subunit 4 (WASHC4), transcript 
+Homo sapiens tumor protein D52 (TPD52), transcript 
+Homo sapiens katanin catalytic subunit A1 like 1 (KATNAL1), transcript 
+Homo sapiens parkin coregulated like (PACRGL), transcript 
+Homo sapiens TCDD inducible poly(ADP-ribose) polymerase (TIPARP), transcript 
+Homo sapiens family with sequence similarity 200 member B (FAM200B), mRNA
+Homo sapiens solute carrier family 4 member 4 (SLC4A4), transcript 
+Homo sapiens CTXN2 antisense RNA 1 (CTXN2-AS1), transcript 
+Homo sapiens dynein axonemal heavy chain 12 (DNAH12), transcript 
+Homo sapiens ADAM metallopeptidase domain 10 (ADAM10), transcript 
+Homo sapiens SEL1L adaptor subunit of ERAD E3 ubiquitin ligase (SEL1L), transcript 
+Homo sapiens toll like receptor 3 (TLR3), mRNA
+Homo sapiens Rho GTPase activating protein 5 (ARHGAP5), transcript 
+Homo sapiens syntaxin binding protein 5 (STXBP5), transcript 
+Homo sapiens pumilio RNA binding family member 2 (PUM2), transcript 
+Homo sapiens sorting nexin 13 (SNX13), transcript 
+Homo sapiens ADP ribosylation factor like GTPase 6 (ARL6), transcript 
+Homo sapiens motile sperm domain containing 1 (MOSPD1), transcript 
+Homo sapiens bromodomain and WD repeat domain containing 1 (BRWD1), transcript 
+Homo sapiens long intergenic non-protein coding RNA 2820 (LINC02820), transcript 
+Homo sapiens RAB27B, member RAS oncogene family (RAB27B), transcript 
+Homo sapiens E2F transcription factor 5 (E2F5), transcript 
+Homo sapiens long intergenic non-protein coding RNA 561 (LINC00561), long non-coding RNA
+Homo sapiens keratocan (KERA), mRNA
+Homo sapiens growth hormone receptor (GHR), transcript 
+Homo sapiens heterogeneous nuclear ribonucleoprotein A3 (HNRNPA3), transcript 
+Homo sapiens synaptotagmin 14 (SYT14), transcript 
+Homo sapiens diacylglycerol kinase beta (DGKB), transcript 
+Homo sapiens Rho GTPase activating protein 12 (ARHGAP12), transcript 
+Homo sapiens vezatin, adherens junctions transmembrane protein (VEZT), transcript 
+Homo sapiens prostaglandin-endoperoxide synthase 2 (PTGS2), mRNA
+Homo sapiens long intergenic non-protein coding RNA 2223 (LINC02223), transcript 
+Homo sapiens solute carrier family 6 member 15 (SLC6A15), transcript 
+Homo sapiens CHM Rab escort protein (CHM), transcript 
+Homo sapiens COMM domain containing 10 (COMMD10), transcript 
+Homo sapiens tudor domain containing 1 (TDRD1), transcript 
+Homo sapiens protein tyrosine phosphatase 4A1 (PTP4A1), transcript 
+Homo sapiens long intergenic non-protein coding RNA 1793 (LINC01793), long non-coding RNA
+Homo sapiens integrator complex subunit 2 (INTS2), transcript 
+Homo sapiens 1-acylglycerol-3-phosphate O-acyltransferase 5 (AGPAT5), mRNA
+Homo sapiens serine incorporator 1 (SERINC1), mRNA
+Homo sapiens fibronectin leucine rich transmembrane protein 2 (FLRT2), transcript 
+Homo sapiens family with sequence similarity 135 member A (FAM135A), transcript 
+Homo sapiens triple QxxK/R motif containing (TRIQK), transcript 
+Homo sapiens progesterone receptor (PGR), transcript 
+Homo sapiens biogenesis of lysosomal organelles complex 1 subunit 6 (BLOC1S6), transcript 
+Homo sapiens interphotoreceptor matrix proteoglycan 2 (IMPG2), mRNA
+Homo sapiens pygopus family PHD finger 1 (PYGO1), transcript 
+Homo sapiens solute carrier family 9 member C2 (putative) (SLC9C2), mRNA
+Homo sapiens protocadherin 11 X-linked (PCDH11X), transcript 
+Homo sapiens sarcoglycan zeta (SGCZ), transcript 
+Homo sapiens muscle associated receptor tyrosine kinase (MUSK), transcript 
+Homo sapiens DDB1 and CUL4 associated factor 13 pseudogene 3 (DCAF13P3), non-coding RNA
+Homo sapiens NCK adaptor protein 1 (NCK1), transcript 
+Homo sapiens long intergenic non-protein coding RNA 2587 (LINC02587), long non-coding RNA
+Homo sapiens myostatin (MSTN), mRNA
+Homo sapiens Fas cell surface death receptor (FAS), transcript 
+Homo sapiens transmembrane serine protease 15 (TMPRSS15), mRNA
+Homo sapiens zinc finger MYM-type containing 1 (ZMYM1), transcript 
+Homo sapiens component of oligomeric golgi complex 6 (COG6), transcript 
+Homo sapiens calmodulin 2 (CALM2), transcript 
+Homo sapiens mitogen-activated protein kinase 6 (MAPK6), mRNA
+Homo sapiens cullin associated and neddylation dissociated 1 (CAND1), transcript 
+Homo sapiens dermatan sulfate epimerase (DSE), transcript 
+Homo sapiens cullin 3 (CUL3), transcript 
+Homo sapiens 5'-3' exoribonuclease 1 (XRN1), transcript 
+Homo sapiens HSPE1-MOB4 readthrough (HSPE1-MOB4), mRNA
+Homo sapiens fibrinogen like 2 (FGL2), mRNA
+Homo sapiens coiled-coil domain containing 141 (CCDC141), transcript 
+Homo sapiens gamma-aminobutyric acid type A receptor subunit alpha1 (GABRA1), transcript 
+Homo sapiens sorting nexin 14 (SNX14), transcript 
+Homo sapiens sodium voltage-gated channel alpha subunit 9 (SCN9A), transcript 
+Homo sapiens dipeptidyl peptidase like 10 (DPP10), transcript 
+Homo sapiens ETS 
+Homo sapiens activin A receptor type 2A (ACVR2A), transcript 
+Homo sapiens kelch like family member 4 (KLHL4), transcript 
+Homo sapiens Bardet-Biedl syndrome 7 (BBS7), transcript 
+Homo sapiens olfactory receptor family 5 subfamily H member 14 (OR5H14), mRNA
+Homo sapiens thyroid hormone receptor interactor 12 (TRIP12), transcript 
+Homo sapiens fibroblast growth factor 14 (FGF14), transcript 
+Homo sapiens DnaJ heat shock protein family (Hsp40) member C15 (DNAJC15), mRNA
+Homo sapiens CACNA2D1 antisense RNA 1 (CACNA2D1-AS1), transcript 
+Homo sapiens ATP binding cassette subfamily D member 2 (ABCD2), transcript 
+Homo sapiens leucine zipper transcription factor like 1 (LZTFL1), transcript 
+Homo sapiens ATPase 13A3 (ATP13A3), transcript 
+Homo sapiens diacylglycerol kinase eta (DGKH), transcript 
+Homo sapiens myoneurin (MYNN), transcript 
+Homo sapiens COMM domain containing 2 (COMMD2), transcript 
+Homo sapiens phosphodiesterase 5A (PDE5A), transcript 
+Homo sapiens BTB domain and CNC homolog 1 (BACH1), transcript 
+Homo sapiens origin recognition complex subunit 4 (ORC4), transcript 
+Homo sapiens interactor of little elongation complex ELL subunit 2 (ICE2), transcript 
+Homo sapiens NFKB inhibitor interacting Ras like 1 (NKIRAS1), transcript 
+Homo sapiens ankyrin repeat domain 22 (ANKRD22), mRNA
+Homo sapiens La ribonucleoprotein 4 (LARP4), transcript 
+Homo sapiens PKN2 antisense RNA 1 (PKN2-AS1), long non-coding RNA
+Homo sapiens zinc finger protein 280D (ZNF280D), transcript 
+Homo sapiens phosphodiesterase 1A (PDE1A), transcript 
+Homo sapiens DEAD-box helicase 3 Y-linked (DDX3Y), transcript 
+Homo sapiens centrosomal protein 85 like (CEP85L), transcript 
+Homo sapiens major facilitator superfamily domain containing 8 (MFSD8), transcript 
+Homo sapiens discs large MAGUK scaffold protein 1 (DLG1), transcript 
+Homo sapiens transmembrane protein 161B (TMEM161B), transcript 
+Homo sapiens suppressor of cytokine signaling 5 (SOCS5), transcript 
+Homo sapiens ubiquitin specific peptidase 15 (USP15), transcript 
+Homo sapiens RNA binding motif protein 18 (RBM18), transcript 
+Homo sapiens Rho GTPase activating protein 11A (ARHGAP11A), transcript 
+Homo sapiens sorting nexin 2 (SNX2), transcript 
+Homo sapiens nicotinamide phosphoribosyltransferase (NAMPT), mRNA
+Homo sapiens UDP glucuronosyltransferase family 2 member A1 complex locus (UGT2A1), transcript 
+Homo sapiens protein kinase cGMP-dependent 1 (PRKG1), transcript 
+Homo sapiens clock circadian regulator (CLOCK), transcript 
+Homo sapiens metabolism of cobalamin associated A (MMAA), transcript 
+Homo sapiens ubiquitously transcribed tetratricopeptide repeat containing, Y-linked (UTY), transcript 
+Homo sapiens N-acetylated alpha-linked acidic dipeptidase like 2 (NAALADL2), mRNA
+Homo sapiens putative homeodomain transcription factor 2 (PHTF2), transcript 
+Homo sapiens RAN binding protein 3 like (RANBP3L), transcript 
+Homo sapiens carboxypeptidase D (CPD), transcript 
+Homo sapiens EFR3 homolog A (EFR3A), transcript 
+Homo sapiens adenosine deaminase tRNA specific 2 (ADAT2), transcript 
+Homo sapiens ANTXR cell adhesion molecule 2 (ANTXR2), transcript 
+Homo sapiens ubiquitin conjugating enzyme E2 V2 (UBE2V2), mRNA
+Homo sapiens tetratricopeptide repeat domain 33 (TTC33), mRNA
+Homo sapiens transmembrane protein 67 (TMEM67), transcript 
+Homo sapiens DnaJ heat shock protein family (Hsp40) member C10 (DNAJC10), transcript 
+Homo sapiens NDC1 transmembrane nucleoporin (NDC1), transcript 
+Homo sapiens ubiquitin specific peptidase 9 Y-linked (USP9Y), mRNA
+Homo sapiens synaptotagmin binding cytoplasmic RNA interacting protein (SYNCRIP), transcript 
+Homo sapiens UDP glucuronosyltransferase family 2 member A2 (UGT2A2), transcript 
+Homo sapiens ring finger and CCCH-type domains 2 (RC3H2), transcript 
+Homo sapiens polycomb group ring finger 5 (PCGF5), transcript 
