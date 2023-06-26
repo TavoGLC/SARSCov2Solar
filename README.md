@@ -4,6 +4,9 @@
 https://www.researchsquare.com/article/rs-2797280/v1
 
 ## Second Draft
+### Trained Models
+Contains the trained models IDs for each fold and scalers. 
+- https://www.kaggle.com/datasets/tavoglc/sarscov2-jax-models
 
 ## First Draft 
 ### Notebooks
