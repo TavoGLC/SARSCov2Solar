@@ -2,7 +2,7 @@
 
 ## Manuscript
 A copy of the manuscript can also be found at the paper folder
-- https://www.researchsquare.com/article/rs-2797280/v1
+- https://www.researchsquare.com/article/rs-2797280/v2
 
 ## Second Draft
 ### Trained Models
