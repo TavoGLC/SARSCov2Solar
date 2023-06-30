@@ -10,6 +10,10 @@ Contains the trained models IDs for each fold and scalers.
 - https://www.kaggle.com/datasets/tavoglc/sarscov2-jax-models
 
 ### Figures
+There's a bug that rises due to how the layers are named. Figure 5 provides an example of how to modify the frozen dict to be able to use the model. Also, each name declaration will raise an error, I'm using the same flax and jax versions as Kaggle, so I don't think is due to that. That error can be solved by changing name to Name as name is restricted in flax.  
+
+Figure 5
+- https://www.kaggle.com/code/tavoglc/sars-cov-2-genome-wise-variability/notebook
 
 Figure 7
 - https://www.kaggle.com/code/tavoglc/solar-patterns-and-sarscov2-genome-size
