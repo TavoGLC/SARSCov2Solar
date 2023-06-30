@@ -9,6 +9,10 @@ A copy of the manuscript can also be found at the paper folder
 Contains the trained models IDs for each fold and scalers. 
 - https://www.kaggle.com/datasets/tavoglc/sarscov2-jax-models
 
+###Figures
+Figure 9 
+- https://www.kaggle.com/code/tavoglc/environment-and-covid-19
+
 ## First Draft 
 ### Notebooks
 
