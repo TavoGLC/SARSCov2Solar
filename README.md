@@ -10,8 +10,18 @@ Contains the trained models IDs for each fold and scalers.
 - https://www.kaggle.com/datasets/tavoglc/sarscov2-jax-models
 
 ### Figures
+
+Figure 7
+- https://www.kaggle.com/code/tavoglc/solar-patterns-and-sarscov2-genome-size
+
 Figure 9 
 - https://www.kaggle.com/code/tavoglc/environment-and-covid-19
+
+Figure 11
+- https://www.kaggle.com/code/tavoglc/dynamical-vaes-for-sars-cov2
+
+Figure 13
+- https://www.kaggle.com/code/tavoglc/sars-cov2-genome-adaptation-and-the-environment
 
 ## First Draft 
 ### Notebooks
