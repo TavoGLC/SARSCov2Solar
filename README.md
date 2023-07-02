@@ -5,6 +5,12 @@ A copy of the manuscript can also be found at the paper folder
 - https://www.researchsquare.com/article/rs-2797280/v2
 
 ## Second Draft
+
+### Models
+
+Training the dimensional expansion model
+-https://www.kaggle.com/code/tavoglc/dimensional-expansion-for-sars-cov2-genome-data
+
 ### Trained Models
 Contains the trained models IDs for each fold and scalers. 
 - https://www.kaggle.com/datasets/tavoglc/sarscov2-jax-models
