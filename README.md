@@ -9,7 +9,7 @@ A copy of the manuscript can also be found at the paper folder
 ### Models
 
 Training the dimensional expansion model
--https://www.kaggle.com/code/tavoglc/dimensional-expansion-for-sars-cov2-genome-data
+- https://www.kaggle.com/code/tavoglc/dimensional-expansion-for-sars-cov2-genome-data
 
 ### Trained Models
 Contains the trained models IDs for each fold and scalers. 
