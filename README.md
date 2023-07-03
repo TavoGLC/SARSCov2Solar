@@ -33,6 +33,10 @@ Figure 11
 Figure 13
 - https://www.kaggle.com/code/tavoglc/sars-cov2-genome-adaptation-and-the-environment
 
+### Datasets
+Reconstructed NASA Aqua/AIRS L3 Daily Standard Physical Retrieval 
+- https://www.kaggle.com/datasets/tavoglc/nasa-aquaairs-l3-reconstructed
+
 ## First Draft 
 ### Notebooks
 
