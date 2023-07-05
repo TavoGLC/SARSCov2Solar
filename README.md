@@ -37,6 +37,9 @@ Figure 13
 Reconstructed NASA Aqua/AIRS L3 Daily Standard Physical Retrieval 
 - https://www.kaggle.com/datasets/tavoglc/nasa-aquaairs-l3-reconstructed
 
+Nasa files visualization 
+- https://www.tiktok.com/@tavoglc0?lang=es
+
 ## First Draft 
 ### Notebooks
 
