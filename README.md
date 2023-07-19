@@ -15,7 +15,8 @@ Training the dimensional expansion model
 Contains the trained models IDs for each fold and scalers. 
 - https://www.kaggle.com/datasets/tavoglc/sarscov2-jax-models
 
-Trained models are broken for the generative part, yet they can be used for dimensionality reduction. A new version can be found here, generative part of the model is fixed and some other things are modified so there's no modification of the frozen dictionaries to use the model if you decide to continue training. Loss is changed to obtain a calibrated probability and the inference can be easily obtained. 
+Trained models are broken for the generative part, yet they can be used for dimensionality reduction. A new version can be found down here, the generative part of the model is fixed as well as some naming errors.  There's no need to modify the frozen dictionaries to use the model. 
+Loss is changed to obtain a calibrated probability to ease the inference. 
 
 - https://www.kaggle.com/code/tavoglc/generative-covid19-genomes
 
