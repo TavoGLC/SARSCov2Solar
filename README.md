@@ -101,6 +101,23 @@ Geo location and other features
 #### Figure 3
 - https://www.kaggle.com/code/tavoglc/sars-cov2-seasonality-and-adaptation-03
 
+## Extras 
+
+### Surveillance probes. 
+#### Kmer model
+- https://www.kaggle.com/code/tavoglc/probes-for-sarscov2-weekly-surveillance
+
+#### Relational Model
+
+#### Full genome model
+
+
+### Full genome prediction. 
+- https://www.kaggle.com/code/tavoglc/generative-covid19-genomes
+
+### Full effective genome prediction. 
+- https://www.kaggle.com/code/tavoglc/generative-effective-covid19-genomes
+
 ## Want to know more ? 
 ### Sliding sampling 
 #### Paper
