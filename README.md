@@ -4,6 +4,15 @@
 A copy of the manuscript can also be found at the paper folder
 - https://www.researchsquare.com/article/rs-2797280/v2
 
+## Third draft
+
+- Most of the naming problems are solved on the model-generating functions. 
+- Data was updated to contain sequences up to July 2023. 
+- A new preprocessing step was added sequences were cropped from the first start codon to the last stop codon, the resulting genome is referred to as the effective genome. 
+- The reversed graph is removed from the previous version of the relational model.
+- Two new datasets are added, relational graphs and effective genomes.
+
+
 ## Second Draft
 
 ### Models
