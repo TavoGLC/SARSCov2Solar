@@ -5,7 +5,9 @@ A copy of the manuscript can also be found at the paper folder
 - https://www.researchsquare.com/article/rs-2797280/v2
 
 ## Third draft
+Third version was the result of data update and a series of changes listed below.  
 
+- Results from all models are evaluated using the same samples, removing possible dta leaks from previous versions. But lowers the amoun of data for other analysis. 
 - Most of the naming problems are solved on the model-generating functions. 
 - Data was updated to contain sequences up to July 2023. 
 - A new preprocessing step was added sequences were cropped from the first start codon to the last stop codon, the resulting genome is referred to as the effective genome. 
