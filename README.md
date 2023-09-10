@@ -4,6 +4,10 @@
 A copy of the manuscript can also be found at the paper folder
 - https://www.researchsquare.com/article/rs-2797280/v2
 
+## Summary 
+A summary of the findings can be found here 
+- https://www.kaggle.com/code/tavoglc/a-computational-description-of-sarscov2-adaptation
+
 ## Third draft
 Third version was the result of data update and a series of changes listed below.  
 
