@@ -9,7 +9,7 @@ A summary of the findings can be found here
 - https://www.kaggle.com/code/tavoglc/a-computational-description-of-sarscov2-adaptation
 
 ## Request
-If you for any reason clone this repo please consider leaving any comments at pubpeer https://pubpeer.com/, under the following doi doi: 10.21203/rs.3.rs-2797280/v3 (https://pubpeer.com/publications/B48745C2D18A5E3589992677D8E055)That will allow me to have all the comments in a single place and to further improve the results described in both the code and the manuscript. 
+If you for any reason clone this repo please consider leaving any comments at pubpeer https://pubpeer.com/, under the following doi doi: 10.21203/rs.3.rs-2797280/v3 (https://pubpeer.com/publications/B48745C2D18A5E3589992677D8E055) That will allow me to have all the comments in a single place and to further improve the results described in both the code and the manuscript. 
 
 ## Third draft
 Third version was the result of data update and a series of changes listed below.  
